@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/formikform/my-app/static/css/main.55a15189.css",
+    "main.js": "/formikform/my-app/static/js/main.d725b17c.js",
+    "static/media/R.jpg": "/formikform/my-app/static/media/R.cd61c607804f33a36c60.jpg",
+    "index.html": "/formikform/my-app/index.html",
+    "main.55a15189.css.map": "/formikform/my-app/static/css/main.55a15189.css.map",
+    "main.d725b17c.js.map": "/formikform/my-app/static/js/main.d725b17c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55a15189.css",
+    "static/js/main.d725b17c.js"
+  ]
+}
